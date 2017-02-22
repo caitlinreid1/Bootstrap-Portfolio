@@ -39,3 +39,39 @@ margin-bottom:15px;
 .sidebar-custom {
 	margin-left: 15px;
 }
+
+img.portfolio {
+    width: 100%;
+    padding: ;
+}
+
+
+/* portfolio */
+.caption {
+    width:98%;
+    bottom: 0.3rem;
+    position: absolute;
+    background:#4aaaa5;
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    margin:0;
+    padding:0;
+
+}
+
+
+
+.caption h4 {
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 1px;
+}
+
+.caption h5 {
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 1px;
+}
