@@ -1,0 +1,21 @@
+.main {
+	max-width: 75%;	
+}
+
+img {
+	border: 0;
+    width: 23%;
+    margin: 5px;
+}
+
+#profilepic {
+	width: 100%;
+}
+
+p {
+	float:right;
+}
+
+.col-sm-7 {
+	
+}
